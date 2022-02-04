@@ -1,1 +1,1 @@
-print()
+BOT_TOKEN = ""
